@@ -1,6 +1,4 @@
-import unittest
+import pytest
 
-class Test(unittest.TestCase):
-
-    def setUp(self):
-        pass
+def test():
+    pass
